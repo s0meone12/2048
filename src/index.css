@@ -1,0 +1,9 @@
+body{
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	background-color: black;
+	color: white;
+	font-size: larger;
+	font-family: 'Otomanopee One', sans-serif;
+}
